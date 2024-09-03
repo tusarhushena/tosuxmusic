@@ -11,7 +11,7 @@ API_ID = 24620300
 API_HASH = "9a098f01aa56c836f2e34aee4b7ef963"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "6457568929:AAEjV58bTPE-ioYY6TFX4VvuPOlXOHY7ytc"
+BOT_TOKEN = ""
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = "mongodb+srv://Zenitsuaf:Zenitsuaf@cluster0.i58aapw.mongodb.net/?retryWrites=true&w=majority"
@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/tusarhushena/tosu",
+    "https://github.com/tusarhushena/tosuXmusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = "BAF3rQwArt78V0uBIw2BMz_3pi_8mwiLq6qrLWv_WpeM7nXSV4x5Xjch0dHWxo-ss6xXm5LY2vMttIjo-s8Dp-gMYtAtG-iM1byhi6-VT0Oj-koeNn17SvnqMF0wySFIM2ABpswwcOErxjEyJyA1PcIam6GQ-Rjof-4UjJViBfWTAs35ZffGvbGWZv1SrQ-47e760vkUqEkkc45GEgU_OveaejcQHm6Npru0XVSK2wnXMlAfp6XBOu-fa9idWFsMai8ucj0hsMSseYDtZnJZzG4YiT7r_bv-7Ph_O0VguOMyDP5dKFUZAWnrA5V9Of1YusteQr1ZWIKlBr8ccBqLedEnfwbkvQAAAAGuxi_rAA"
+STRING1 = ""
 STRING2 = ""
 STRING3 = ""
 STRING4 = getenv("STRING_SESSION4", None)
