@@ -22,7 +22,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 9999))
 LOGGER_ID = -1002023182491
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = 5322882174
+OWNER_ID = 7435222501
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -78,21 +78,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/97669c286e18c2eddc72d.jpg"
+    "START_IMG_URL", "https://graph.org/file/3d8ca7058b4a72925bf8c.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/97669c286e18c2eddc72d.jpg"
+    "PING_IMG_URL", "https://graph.org/file/3d8ca7058b4a72925bf8c.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/97669c286e18c2eddc72d.jpg"
-STATS_IMG_URL = "https://graph.org/file/97669c286e18c2eddc72d.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/97669c286e18c2eddc72d.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/97669c286e18c2eddc72d.jpg"
-STREAM_IMG_URL = "https://graph.org/file/97669c286e18c2eddc72d.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/97669c286e18c2eddc72d.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/97669c286e18c2eddc72d.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/97669c286e18c2eddc72d.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/97669c286e18c2eddc72d.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/97669c286e18c2eddc72d.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/3d8ca7058b4a72925bf8c.jpg"
+STATS_IMG_URL = "https://graph.org/file/3d8ca7058b4a72925bf8c.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/3d8ca7058b4a72925bf8c.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/3d8ca7058b4a72925bf8c.jpg"
+STREAM_IMG_URL = "https://graph.org/file/3d8ca7058b4a72925bf8c.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/3d8ca7058b4a72925bf8c.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/3d8ca7058b4a72925bf8c.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/3d8ca7058b4a72925bf8c.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/3d8ca7058b4a72925bf8c.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/3d8ca7058b4a72925bf8c.jpg"
 
 
 def time_to_seconds(time):
